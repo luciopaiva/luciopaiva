@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Lucio Paiva, a software engineer living in Lisbon. Welcome to my collection of open source projects. You may be interested in [Heapify](https://github.com/luciopaiva/heapify), a fast Javascript priority queue implementation. [Witchcraft](https://github.com/luciopaiva/witchcraft), a cool Chrome extension to load custom JS/CSS files to any web page may also be of use.
+
+If you have the time, feel free to check all the other stuff I've been doing: https://luciopaiva.com.
