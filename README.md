@@ -24,6 +24,6 @@ I'm Lucio Paiva, a Brazilian software engineer living in Lisbon, Portugal :brazi
 - [country-flags](https://github.com/luciopaiva/country-flags) :fr: , a tiny JavaScript library for loading flag images based on country codes;
 - The rest of my +100 [collection of published projects](https://github.com/luciopaiva?tab=repositories&q=&type=source&language=).
 
-You can find me on [Twitter (@luciopaiva)](https://twitter.com/luciopaiva) :bird: , [ArtStation](https://www.artstation.com/luciopaiva) :art: , [LinkedIn](https://www.linkedin.com/in/luciopaiva/) :briefcase: .
+You can find me on [Twitter (@luciopaiva)](https://twitter.com/luciopaiva) :bird: , [StackOverflow](https://stackoverflow.com/users/778272/lucio-paiva) :detective: , [ArtStation](https://www.artstation.com/luciopaiva) :art: , [LinkedIn](https://www.linkedin.com/in/luciopaiva/) :briefcase: .
 
 A have a few articles + other stuff here: https://luciopaiva.com. 
