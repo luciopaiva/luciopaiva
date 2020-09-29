@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Lucio Paiva, a software engineer living in Lisbon. Welcome to my collection of open source projects. You may be interested in [Heapify](https://github.com/luciopaiva/heapify), a fast Javascript priority queue implementation. [Witchcraft](https://github.com/luciopaiva/witchcraft), a cool Chrome extension to load custom JS/CSS files to any web page may also be of use. I publish here almost everything that I write, so browse around and you may find something else interesting.
+I'm Lucio Paiva, a Brazilian software engineer living in Lisbon, Portugal :brazil: :portugal: . Welcome to my collection of open source projects. You may be interested in:
 
-Also go ahead and check all the other stuff I've been doing: https://luciopaiva.com.
+- [Heapify](https://github.com/luciopaiva/heapify) :green_circle: , a fast Javascript priority queue implementation;
+- [Witchcraft](https://github.com/luciopaiva/witchcraft) :mage_woman: , a cool Chrome extension to load custom JS/CSS files in any web page;
+- [iTermoxyl]() :computer: , a tool to open multiple ssh connections via iTerm;
+- [GrahamScan](https://github.com/luciopaiva/graham-scan) :black_square_button: , for computing convex hulls in JavaScript;
+- [country-flags](https://github.com/luciopaiva/country-flags) :fr: , a tiny JavaScript library for loading flag images based on country codes;
+- The rest of my +100 [collection of published projects](https://github.com/luciopaiva?tab=repositories&q=&type=source&language=).
+
+You can find me on [Twitter (@luciopaiva)](https://twitter.com/luciopaiva) :bird: , [ArtStation](https://www.artstation.com/luciopaiva) :art: , [LinkedIn](https://www.linkedin.com/in/luciopaiva/) :briefcase: .
+
+A have a few articles + other stuff here: https://luciopaiva.com. 
