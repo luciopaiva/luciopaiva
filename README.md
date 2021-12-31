@@ -19,7 +19,7 @@ I'm Lucio, a Brazilian software engineer living in Lisbon, Portugal :brazil: :po
 
 - [Heapify](https://github.com/luciopaiva/heapify) :green_circle: , a fast Javascript priority queue implementation;
 - [Witchcraft](https://github.com/luciopaiva/witchcraft) :mage_woman: , a cool Chrome extension to load custom JS/CSS files in any web page;
-- [iTermoxyl]() :computer: , a tool to open multiple ssh connections via iTerm;
+- [iTermoxyl](https://github.com/luciopaiva/itermoxyl) :computer: , a tool to open multiple ssh connections via iTerm;
 - [Graham scan](https://github.com/luciopaiva/graham-scan) :black_square_button: , for computing convex hulls in JavaScript;
 - [Country flags](https://github.com/luciopaiva/country-flags) :fr: , a tiny JavaScript library for loading flag images based on country codes;
 - The rest of my +100 [collection of published projects](https://github.com/luciopaiva?tab=repositories&q=&type=source&language=).
