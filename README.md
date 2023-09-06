@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Lucio, a Brazilian software engineer living in Lisbon, Portugal :brazil: :portugal: . Welcome to my collection of open source projects. You may be interested in:
+I'm Lucio, a Brazilian software engineer living in Lisbon, Portugal. Welcome to my collection of open source projects. You may be interested in:
 
 - [Heapify](https://github.com/luciopaiva/heapify) :green_circle: , a fast Javascript priority queue implementation;
 - [Witchcraft](https://github.com/luciopaiva/witchcraft) :mage_woman: , a cool Chrome extension to load custom JS/CSS files in any web page;
