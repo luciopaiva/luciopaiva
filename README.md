@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm Lucio, a Brazilian software engineer living in Lisbon, Portugal. Welcome to my collection of open source projects. You may be interested in:
 
 - [Heapify](https://github.com/luciopaiva/heapify) :green_circle: , a fast Javascript priority queue implementation;
+- [git-janitor](https://github.com/luciopaiva/git-janitor) 🧹, a terminal UI tool to manage multiple local git repositories;
 - [Witchcraft](https://github.com/luciopaiva/witchcraft) :mage_woman: , a cool Chrome extension to load custom JS/CSS files in any web page;
 - [iTermoxyl](https://github.com/luciopaiva/itermoxyl) :computer: , a tool to open multiple ssh connections via iTerm;
 - [Graham scan](https://github.com/luciopaiva/graham-scan) :black_square_button: , for computing convex hulls in JavaScript;
